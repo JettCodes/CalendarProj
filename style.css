@@ -1,0 +1,42 @@
+table{
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+td, th {
+    border: 2px solid black;
+    width: 14.27%;
+}
+th{
+    padding: 8px 0;
+    background-color: teal;
+    color: lightblue;
+}
+td {
+    font-wight: bold;
+    font-size: 24px;
+    padding-bottom: 32px;
+}
+.weekend{
+    background-color: lightpink;
+    color: white;
+}
+.summer{
+    background-color: lavender;
+}
+.late{
+    background-color: gray;
+}
+.rally{
+    background-color: lightgoldenrodyellow;
+}
+.normal{
+    background-color: lightgreen;
+}
+.buyback{
+    background-color: lightyellow;
+}
+.sd{
+    background-color: slategray;
+ }
